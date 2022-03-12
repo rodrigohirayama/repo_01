@@ -1,0 +1,7 @@
+Microsoft Windows [versão 10.0.19043.1526]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\rodrigo.hirayama\OneDrive - ANAC\FATEC\Materias\Informatica\repo_01>git --version
+git version 2.35.1.windows.2
+
+C:\Users\rodrigo.hirayama\OneDrive - ANAC\FATEC\Materias\Informatica\repo_01>
